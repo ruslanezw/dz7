@@ -1,0 +1,88 @@
+.content {
+    float: right;
+    width: 840px;
+}
+
+.cards {
+    width: 840px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    float: left;
+    width: 258px;
+    height: 350px;
+    margin-right: 33px;
+    margin-bottom: 106px;
+    text-align: left;
+}
+
+.fon-color {
+    background-color: #FBFBFB;
+    width: 258px;
+    height: 300px;
+}
+
+.card:nth-child(3n) {
+    margin-right: 0;
+}
+
+.card:nth-child(n+6) {
+    margin-bottom: 0;
+}
+
+.img-card {
+    padding: 31px 4px 19px;
+    margin-bottom: 44px;
+    width: 250px;
+    height: 250px;
+}
+
+.product {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    color: #3D3D3D;
+    margin-top: 31px;
+    margin-bottom: 0;
+}
+
+.price {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    color: #46A358;
+    margin-top: 6px;
+}
+
+.next-link {
+    margin-top: 150px;
+    text-align: right;
+}
+
+.linked {
+    text-decoration: none;
+    color: #3D3D3D;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 16px;
+    margin-right: 10px;
+    text-align: center;
+    width: 35px;
+    height: 35px;
+    padding: 10px 12px;
+    display: inline-block;
+    border: 1px solid #E5E5E5;
+    border-radius: 4px;
+}
+
+.active2 {
+    background-color: #46A358;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+.linked:nth-child(5) {
+    margin-right: 0;
+}

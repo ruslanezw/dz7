@@ -1,0 +1,41 @@
+.menu {
+    width: 310px;
+    float: left;
+    background-color: #FBFBFB;
+}
+
+.categories {
+    width: 103px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    margin-left: 18px;
+    margin-bottom: 7px;
+}
+
+.link-menu {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 40px;
+    color: #3D3D3D;
+    display: block;
+    margin-left: 30px;
+}
+
+.link-menu:nth-child(10) {
+    margin-bottom: 0;
+}
+
+
+.link-menu:hover {
+    color: #46A358;
+    font-weight: 700;
+}
+
+.reklama {
+    display: block;
+    width: 310px;
+    height: 470px;
+    margin-top: 386px;
+}
