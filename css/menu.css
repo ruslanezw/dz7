@@ -1,0 +1,46 @@
+.menu-shop {
+    float: left;
+    width: 310px;
+    height: 774px;
+    background-color: #FBFBFB;
+    padding: 14px 24px 377px 18px;
+}
+
+.categories-shop {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 16px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.menu-link {
+    padding-top: 7px;
+    padding-left: 12px;
+}
+
+.link-shop {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 40px;
+    color: #3D3D3D;
+    display: block;
+}
+
+.link-shop:nth-child(9) {
+    margin-bottom: 0;
+}
+
+
+.link-shop:hover {
+    color: #46A358;
+    font-weight: 700;
+}
+
+.advertising {
+    width: 310px;
+    height: 470px;
+    margin-top: 377px;
+    margin-left: -19px;
+}
